@@ -96,6 +96,6 @@ public class Player : MonoBehaviour
             RB.linearVelocityY = 0;
 
         }
-
+//Made by Aaron Howlett (200609705) and Liam Johnston (200608641)
     }
 }
